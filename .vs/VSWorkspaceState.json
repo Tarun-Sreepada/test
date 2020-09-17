@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\lib",
     "\\lib\\bootstrap",
     "\\lib\\bootstrap\\css"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\css",
   "PreviewInSolutionExplorer": false
 }
